@@ -5,7 +5,7 @@ Hi, im BryanG, a Java developer.
 
 I developed:
 - ChatLab - https://github.com/devblook/chatlab
-- Backloc - https://github.com/devblook/backloc
+- BackLoc - https://github.com/devblook/backloc
 
 
 ### Stats:
