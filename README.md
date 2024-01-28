@@ -1,13 +1,13 @@
-### Profile:
+#### 👨 About me:
 Hi, im BryanG, a Java developer.
 
-### Development:
+#### 💻 Development:
 
-I developed:
+I developed this plugins:
 - ChatLab - https://github.com/devblook/chatlab
 - BackLoc - https://github.com/devblook/backloc
 
 
-### Stats:
+#### 📖 Stats:
 ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryangdv&theme=algolia&langs_count=3)
 ![prof-stats](https://github-readme-stats.vercel.app/api?username=bryangdv&theme=algolia)
